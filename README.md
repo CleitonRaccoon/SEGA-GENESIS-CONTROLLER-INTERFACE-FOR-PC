@@ -11,7 +11,7 @@ IMPORTANT NOTE NEVER CONNECT THE FIVE VOLTS PIN OF YOUR SEGA GENESIS INTO THE AR
 
 Follow the next schematic
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/c6e4ddd5-c97f-4958-b462-7b8137069e59" 
+<img width="800" height="600" alt="Sin título" src="https://github.com/user-attachments/assets/f7ff4d31-35ae-4c93-bae6-bffc7b91bc1a" />
 
 Next you need to upload the code in realeases to your arduino
 
