@@ -19,5 +19,13 @@ So once you have the Arduino side set up, you have to make sure that your comput
 
 Once your genesis is turn on, the arduino is setup and your controller is conected to your pc, you have tu run the python script (You have to make sure that you have the libraries the script uses installed)
 
+If the console says "No module named "serial" you have to install the library
+
+( pip install pyserial)
+
+if the console says "No module named "inputs" you have to install the library
+
+( pip install inputs)
+
 If everything works you should be able to use your controller on the genesis!
 
